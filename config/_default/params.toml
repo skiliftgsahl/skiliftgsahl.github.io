@@ -30,7 +30,7 @@ enableCodeCopy = true
   showMoreLinkDest = "/posts"
 
 [article]
-  showDate = false
+  showDate = true
   showViews = false
   showLikes = false
   showDateUpdated = false
