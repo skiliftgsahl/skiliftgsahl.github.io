@@ -10,20 +10,25 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-#[[main]]
-#  name = "Anreise"
-#  pageRef = "anreise"
-#  weight = 10
+[[main]]
+  name = "Betriebszeiten"
+  pageRef = "betriebszeiten"
+  weight = 10
 
-#[[main]]
-#  name = "Preise"
-#  pageRef = "preise"
-#  weight = 20
+[[main]]
+  name = "Preise"
+  pageRef = "preise"
+  weight = 20
 
-#[[main]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 30
+[[main]]
+  name = "Anreise"
+  pageRef = "anreise"
+  weight = 30
+
+[[main]]
+  name = "News"
+  pageRef = "infos/news"
+  weight = 40
 
 
 # -- Footer Menu --

@@ -6,7 +6,7 @@ weight = 1
 rtl = false
 
 title = "Skilift Gsahl"
-# logo = "img/logo.png"
+# logo = "img/skilift-logo.png"
 description = "Der familienfreundliche Skilift Gsahl in der Region Olten. Nah, freundlich und güstig. Jetzt vorbeikommen und entdecken!"
 # copyright = "Copy, _right?_ :thinking_face:"
 
@@ -15,8 +15,8 @@ dateFormat = "2 January 2006"
 [author]
   name = "Skilift Gsahl"
   image = "img/skilift-logo.png"
-  headline = "Hier entsteht unsere neue Webseite!"
-  # bio = "A little bit about you"
+  headline = "Erfahren Sie alles, was sie über unser familienfreundliches Skigebiet wissen müssen!"
+  # bio = "About you"
   # links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
