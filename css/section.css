@@ -6,6 +6,10 @@ section {
   gap: 4em;
 }
 
+.section-card {
+  gap: 2em;
+}
+
 .with-background {
   background-image: url("../img/background-4096.jpg");
   background-repeat: no-repeat;
@@ -23,15 +27,15 @@ article {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
+.article-card {
+  max-width: 384px;
+  min-height: 400px;
+  text-align: center;
+}
+
 .dark {
   background-color: #0d3457;
   color: #e4e8ea;
-}
-
-.card {
-  max-width: 300px;
-  min-height: 400px;
-  text-align: center;
 }
 
 @media (max-width: 1024px) {

@@ -17,6 +17,7 @@ td {
 td:not(:first-child),
 th:not(:first-child) {
   text-align: right;
+  white-space: nowrap;
 }
 
 .pricing-table {
