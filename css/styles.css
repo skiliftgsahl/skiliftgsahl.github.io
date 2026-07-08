@@ -174,7 +174,7 @@ section {
 }
 
 .with-background {
-  background-image: url("../img/background-4096.jpg");
+  background-image: url("../img/background-4096.webp");
   background-repeat: no-repeat;
   background-position: top;
 }
@@ -203,13 +203,13 @@ article {
 
 @media (max-width: 1024px) {
   .with-background {
-    background-image: url("../img/background-1024.jpg");
+    background-image: url("../img/background-1024.webp");
   }
 }
 
 @media (min-width: 1025px) and (max-width: 2048px) {
   .with-background {
-    background-image: url("../img/background-2048.jpg");
+    background-image: url("../img/background-2048.webp");
   }
 }
 
